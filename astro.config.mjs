@@ -13,7 +13,10 @@ export default defineConfig({
 				mastodon: "https://mastodon.social/@Muzych",
 			},
 			sidebar: [
-				
+				{
+					"label": "2011",
+					autogenerate: { "directory": "2011" }
+				}
 			],
 		}),
 	],
