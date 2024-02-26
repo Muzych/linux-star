@@ -25,6 +25,10 @@ export default defineConfig({
 					"label": "2013",
 					autogenerate: { "directory": "2013" }
 				},
+				{
+					"label": "2014",
+					autogenerate: { "directory": "2014" }
+				},
 			],
 		}),
 	],
