@@ -57,6 +57,10 @@ export default defineConfig({
 					"label": "2021",
 					autogenerate: { "directory": "2021" }
 				},
+				{
+					"label": "2022",
+					autogenerate: { "directory": "2022" }
+				},
 			],
 		}),
 	],
